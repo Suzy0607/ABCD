@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\Users\user\Desktop\ABCD\ABCD\.metadata\.plugins\org.eclipse.jdt.core
+4226038559.index
+566044982.index
+3933624995.index
+2526383026.index
+4229452652.index
+1495875120.index
+4266352463.index
+1305848593.index
+2462130492.index
+2006956470.index
+235454491.index
+3928601432.index
+549091791.index
+2338919192.index
+3247581806.index
+91646329.index
+3369116631.index
+1752924290.index
+854299847.index
